@@ -1,0 +1,2 @@
+import numpy as np
+arr6 = np.arange(18).reshape(6,3)
