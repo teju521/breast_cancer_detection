@@ -1,2 +1,2 @@
 # breast_cancer_detection
-Breast Cancer Detection Using Machine Learning
+Breast Cancer Detection Using few Machine Learning algorithms.
